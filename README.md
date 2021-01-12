@@ -1,3 +1,4 @@
 # Welcome to koyama1003's page!!
+![Visitor Count](https://komarev.com/ghpvc/?username=koyama1003&color=red)
 
-[![](https://raw.githubusercontent.com/koyama1003/koyama1003/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koyama1003)](https://github.com/anuraghazra/github-readme-stats)
